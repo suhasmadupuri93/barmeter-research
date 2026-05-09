@@ -1,12 +1,12 @@
-# Research: Barmeter Technologies
-
-Source: https://www.barmetertech.com (fetched 2026-05-09)
+# Research
 
 ## 📄 Start here
 
-➡️ **[Barmeter-Research-Report.md](Barmeter-Research-Report.md)** — the single consolidated report (executive summary, business model, SWOT, competitive landscape, open questions).
+➡️ **[How-to-Start-Steel-Detailing-Business.md](How-to-Start-Steel-Detailing-Business.md)** — practical deep-dive on the steel detailing business itself: clients, pricing, how to start, how to win clients, capital required.
 
-## Supporting modular notes
+➡️ **[Barmeter-Research-Report.md](Barmeter-Research-Report.md)** — case study on Barmeter Technologies (the company that inspired this research).
+
+## Supporting modular notes (Barmeter-specific)
 
 | File | Topic |
 |---|---|
