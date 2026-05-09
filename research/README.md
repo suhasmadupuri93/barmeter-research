@@ -2,6 +2,12 @@
 
 Source: https://www.barmetertech.com (fetched 2026-05-09)
 
+## 📄 Start here
+
+➡️ **[Barmeter-Research-Report.md](Barmeter-Research-Report.md)** — the single consolidated report (executive summary, business model, SWOT, competitive landscape, open questions).
+
+## Supporting modular notes
+
 | File | Topic |
 |---|---|
 | [01-company-overview.md](01-company-overview.md) | Company, mission, vision, founding |
