@@ -159,7 +159,7 @@ export default function Home() {
             [ Team photo ]
           </div>
           <div className="flex flex-col justify-center">
-            <h2 className="text-3xl font-bold text-slate-900 md:text-4xl">Work with Barmeter</h2>
+            <h2 className="text-3xl font-bold text-slate-900 md:text-4xl">Work with Greysliver</h2>
             <p className="mt-4 text-lg italic text-slate-700">
               "Positivity fuels productivity. When people feel valued, they bring their best — and that's what drives real success."
             </p>

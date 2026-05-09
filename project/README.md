@@ -1,6 +1,6 @@
-# Barmeter Clone (project)
+# Greysliver (project)
 
-Marketing-site clone inspired by https://www.barmetertech.com — for learning / portfolio.
+Marketing site for Greysliver — structurally inspired by https://www.barmetertech.com (for learning / portfolio).
 
 **Stack:** Next.js 15 (App Router) · React 19 · TypeScript · Tailwind CSS
 
@@ -15,5 +15,5 @@ Open http://localhost:3000.
 `/` `/about` `/services` `/projects` `/career` `/course` `/contact`
 
 ## Notes
-- Brand colors and copy are placeholders inspired by the source site, not copied verbatim.
+- Brand colors and copy are placeholders.
 - Not affiliated with Barmeter Technologies.

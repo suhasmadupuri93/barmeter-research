@@ -17,7 +17,7 @@ export default function AboutPage() {
           <span className="text-sm font-semibold uppercase tracking-wider text-brand-accent">Who we are</span>
           <h1 className="mt-3 text-4xl font-bold md:text-5xl">Bridging design intent and fabrication reality.</h1>
           <p className="mt-5 max-w-3xl text-lg text-slate-200">
-            Founded in 2021, Barmeter exists to close the gap between what gets designed and what gets built.
+            Founded in 2021, Greysliver exists to close the gap between what gets designed and what gets built.
             We deliver detailing and engineering that is shop-ready and field-ready from day one.
           </p>
         </div>

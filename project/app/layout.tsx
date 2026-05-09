@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Barmeter Clone — Steel Detailing & Engineering",
-  description: "Marketing-site clone inspired by Barmeter Technologies. For learning purposes.",
+  title: "Greysliver — Steel Detailing & Engineering",
+  description: "Greysliver: sequence-ready steel detailing, connection design, and BIM coordination.",
 };
 
 const nav = [
@@ -24,7 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="sticky top-0 z-50 border-b border-slate-200 bg-white/95 backdrop-blur">
           <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
             <Link href="/" className="text-xl font-extrabold tracking-tight text-brand">
-              BARMETER<span className="text-brand-accent">.</span>
+              GREYSLIVER<span className="text-brand-accent">.</span>
             </Link>
             <nav className="hidden gap-7 md:flex">
               {nav.map((n) => (
@@ -48,7 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="mx-auto grid max-w-7xl gap-10 px-6 py-14 md:grid-cols-4">
             <div>
               <div className="text-xl font-extrabold text-white">
-                BARMETER<span className="text-brand-accent">.</span>
+                GREYSLIVER<span className="text-brand-accent">.</span>
               </div>
               <p className="mt-3 text-sm text-slate-400">
                 Sequence-ready steel detailing, connection design, and BIM coordination.
@@ -82,7 +82,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
           <div className="border-t border-white/10">
             <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 text-xs text-slate-400">
-              <span>© {new Date().getFullYear()} Barmeter Clone. For learning. Not affiliated with Barmeter Technologies.</span>
+              <span>© {new Date().getFullYear()} Greysliver.</span>
               <span>Built with Next.js + Tailwind</span>
             </div>
           </div>
